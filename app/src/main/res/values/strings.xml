@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Andela Project</string>
+    <string name="app_name">LagJavUsers</string>
+    <string name="send_to">Send To</string>
+    <string name="share">SHARE</string>
+    <string name="detail_activity_title">Details</string>
+
 </resources>
